@@ -31,30 +31,6 @@
           {
             "tileType": "INSIGHT",
             "box": {
-              "top": 4,
-              "left": 0,
-              "width": 5,
-              "height": 4
-            },
-            "clickAction": "OPEN_INSIGHT",
-            "tileParams": {
-              "showXAxis": true,
-              "showYAxis": true,
-              "showLegend": false,
-              "showTooltips": true,
-              "autoPlayAnimation": true
-            },
-            "autoLoad": true,
-            "showTitle": "YES",
-            "title": "Total revenue by campaign and gender",
-            "insightId": "j8Bi4OZ",
-            "insightType": "chart",
-            "displayMode": "INSIGHT",
-            "resizeImageMode": "ORIG_SIZE"
-          },
-          {
-            "tileType": "INSIGHT",
-            "box": {
               "top": 0,
               "left": 5,
               "width": 7,
@@ -78,10 +54,10 @@
           {
             "tileType": "INSIGHT",
             "box": {
-              "top": 8,
+              "top": 4,
               "left": 0,
-              "width": 2,
-              "height": 2
+              "width": 5,
+              "height": 4
             },
             "clickAction": "DO_NOTHING",
             "tileParams": {
@@ -324,11 +300,11 @@
   "name": "Analytic dashboard",
   "showGrid": true,
   "versionTag": {
-    "versionNumber": 88,
+    "versionNumber": 89,
     "lastModifiedBy": {
       "login": "admin"
     },
-    "lastModifiedOn": 1667337303522
+    "lastModifiedOn": 1667337320252
   },
   "creationTag": {
     "versionNumber": 0,
