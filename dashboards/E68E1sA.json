@@ -34,29 +34,6 @@
               "top": 0,
               "left": 5,
               "width": 7,
-              "height": 8
-            },
-            "clickAction": "OPEN_INSIGHT",
-            "tileParams": {
-              "showXAxis": true,
-              "showYAxis": true,
-              "showLegend": false,
-              "showTooltips": true,
-              "autoPlayAnimation": true
-            },
-            "autoLoad": true,
-            "showTitle": "YES",
-            "insightId": "ZVdy4Hk",
-            "insightType": "chart",
-            "displayMode": "INSIGHT",
-            "resizeImageMode": "ORIG_SIZE"
-          },
-          {
-            "tileType": "INSIGHT",
-            "box": {
-              "top": 4,
-              "left": 0,
-              "width": 5,
               "height": 4
             },
             "clickAction": "DO_NOTHING",
@@ -300,11 +277,11 @@
   "name": "Analytic dashboard",
   "showGrid": true,
   "versionTag": {
-    "versionNumber": 89,
+    "versionNumber": 90,
     "lastModifiedBy": {
       "login": "admin"
     },
-    "lastModifiedOn": 1667337320252
+    "lastModifiedOn": 1667337333101
   },
   "creationTag": {
     "versionNumber": 0,
