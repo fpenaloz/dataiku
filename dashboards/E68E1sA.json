@@ -78,8 +78,8 @@
           {
             "tileType": "INSIGHT",
             "box": {
-              "top": -1,
-              "left": -1,
+              "top": 8,
+              "left": 0,
               "width": 2,
               "height": 2
             },
@@ -324,11 +324,11 @@
   "name": "Analytic dashboard",
   "showGrid": true,
   "versionTag": {
-    "versionNumber": 87,
+    "versionNumber": 88,
     "lastModifiedBy": {
       "login": "admin"
     },
-    "lastModifiedOn": 1667337302148
+    "lastModifiedOn": 1667337303522
   },
   "creationTag": {
     "versionNumber": 0,
