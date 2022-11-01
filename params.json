@@ -64,6 +64,15 @@
         "modes": [
           "READ"
         ]
+      },
+      {
+        "objectRef": {
+          "objectId": "Orders_filtered",
+          "objectType": "DATASET"
+        },
+        "modes": [
+          "READ"
+        ]
       }
     ]
   },
@@ -242,8 +251,7 @@
     },
     "dkuProperties": []
   },
-  "name": "Test Version Control",
-  "projectStatus": "Sandbox",
+  "name": "Test Version Control (VersionControl_fpenaloz)",
   "imgPattern": 8,
   "metrics": {
     "probes": [],
@@ -300,11 +308,11 @@
     }
   },
   "versionTag": {
-    "versionNumber": 145,
+    "versionNumber": 148,
     "lastModifiedBy": {
       "login": "admin"
     },
-    "lastModifiedOn": 1667332748919
+    "lastModifiedOn": 1667337302097
   },
   "creationTag": {
     "versionNumber": 0,
@@ -314,11 +322,12 @@
     "lastModifiedOn": 1498738782025
   },
   "description": "",
-  "shortDesc": "We\u0027ll test version control at the project level...",
+  "shortDesc": "We\u0027ll test version control at the project level...\nThe project *TEST_VERSION_CONTROL_VERSIONCONTROL_FPENALOZ* was copied from *DKU_HAIKU_STARTER* by Fernando Penaloza Figueroa on Nov 01st 2022",
   "tags": [
     "tutorial",
     "downloads",
-    "section:General Topics"
+    "section:General Topics",
+    "duplicated"
   ],
   "customFields": {},
   "checklists": {

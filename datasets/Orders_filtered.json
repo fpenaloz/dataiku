@@ -60,11 +60,11 @@
     "dimensions": []
   },
   "versionTag": {
-    "versionNumber": 13,
+    "versionNumber": 14,
     "lastModifiedBy": {
-      "login": "alex"
+      "login": "admin"
     },
-    "lastModifiedOn": 1501619081723
+    "lastModifiedOn": 1667337142381
   },
   "creationTag": {
     "versionNumber": 0,
@@ -109,12 +109,13 @@
       {"name":"user_agent_osversion","type":"string"},
       {"name":"user_agent_osflavor","type":"string"},
       {"name":"ip_address","type":"string"},
-      {"name":"ip_address_country","type":"string"},
-      {"name":"ip_address_city","type":"string"},
       {"name":"ip_address_geopoint","type":"string"},
-      {"name":"campaign","type":"boolean"}
+      {"name":"ip_address_city","type":"string"},
+      {"name":"ip_address_country","type":"string"},
+      {"name":"campaign","type":"boolean"},
+      {"name":"dataset","type":"string"}
     ],
-    "userModified": false
+    "userModified": true
   },
   "dkuProperties": [],
   "metrics": {
